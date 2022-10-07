@@ -1,0 +1,160 @@
+#personas-storyboarding {
+  background-color: #EDC7B7;
+  align-items: center;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}  
+
+/* Uncomment below if images are way too big.
+Selects all image tags and makes them 500px;
+ */
+img {
+ width: 500px;
+ border-radius: 50px;
+
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.vending-machine{
+  border-radius: 50px;
+}
+
+.interface {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.main-heading {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+  background-color: #AC3B61;
+}
+
+.side-by-side {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: 50px;
+}
+
+.descriptions {
+  padding: 100px
+}
+.user-experiences {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+  background-color: #EEE2DC;
+}
+
+#user-interviews {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 50px;
+  margin: 0 -5px;
+}
+
+.interview {
+  background: gray;
+  width: 500px;
+  height: 500px;
+  margin: 0 15px;
+  border-radius: 50px;
+}
+
+.personas {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+  background-color: #BAB2B5;
+}
+
+#empathy-maps {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 50px;
+  margin: 0 50px;
+}
+.empathymap {
+  background: gray;
+  width: 500px;
+  height: 500px;
+  margin: 0 50px;
+  border-radius: 50px;
+}
+
+.storyboard {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+  padding-bottom: 50px;
+  background-color: #123C69;
+}
+
+#storyboard-frames{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 50px;
+}
+
+#emap {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+#storyboardf {
+  width: 500px;
+  height: 500px;
+  margin: 0 50px;
+  border-radius: 50px;
+}
+
+.takeaways {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+  background-color: #AC3B61;
+}
+
+.rubricq {
+  width: 500px;
+}
+
